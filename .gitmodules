@@ -4,3 +4,6 @@
 [submodule "Assets/latkxHoloLens"]
 	path = Assets/latkxHoloLens
 	url = https://github.com/n1ckfg/latkxHoloLens
+[submodule "Assets/latkUnity"]
+	path = Assets/latkUnity
+	url = https://github.com/LightningArtist/latkUnity
