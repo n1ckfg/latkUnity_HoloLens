@@ -35,7 +35,7 @@ public class BrushInputHoloLens : MonoBehaviour {
             }
         } catch (UnityException e) { }
 
-        latk.clicked = true; // hands.handPressed;
+        latk.clicked = hands.handPressed;
     }
 
 }
